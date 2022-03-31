@@ -20,7 +20,7 @@ namespace ObserverPattern
             estacaoMeteorologica.Temperatura = 22.7f;
             estacaoMeteorologica.Temperatura = 15.7f;
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
